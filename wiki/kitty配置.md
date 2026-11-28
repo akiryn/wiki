@@ -1,4 +1,4 @@
-参考文档 [Kitty 官方配置文档](https://sw.kovidgoyal.net/kitty/conf/?utm_source=chatgpt.com)   [Arch Linux kitty.conf 手册](https://man.archlinux.org/man/kitty.conf.5.en?utm_source=chatgpt.com) [Kitten 工具介绍](https://sw.kovidgoyal.net/kitty/kittens_intro/?utm_source=chatgpt.com) [快捷键帮助文档](https://sw.kovidgoyal.net/kitty/actions/?utm_source=chatgpt.com) [可映射动作参考手册](https://sw.kovidgoyal.net/kitty/actions/?utm_source=chatgpt.com)
+参考文档 [Kitty 官方配置文档](https://sw.kovidgoyal.net/kitty/conf/)   [Arch Linux kitty.conf 手册](https://man.archlinux.org/man/kitty.conf.5.en) [Kitten 工具介绍](https://sw.kovidgoyal.net/kitty/kittens_intro/) [快捷键帮助文档](https://sw.kovidgoyal.net/kitty/actions/) [可映射动作参考手册](https://sw.kovidgoyal.net/kitty/actions/)
 
 
 
@@ -274,7 +274,7 @@ shell_integration enabled
 - 与 `shell zsh` 不同。
 - 不等于 Oh My Zsh。
 
-官方说明：[Shell integration](https://sw.kovidgoyal.net/kitty/shell-integration/?utm_source=chatgpt.com)。
+官方说明：[Shell integration](https://sw.kovidgoyal.net/kitty/shell-integration/)。
 
 
 ### 3. 启动会话
